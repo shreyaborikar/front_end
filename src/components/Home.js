@@ -6,8 +6,8 @@ import Navbar from './Navbar';
 const Home = () => {
   return (
     <Navbar>
-      <h2>SereneFlex Yoga Studio</h2>
-      <p>Welcome to our yoga classes. Discover the path to a healthier and happier life through yoga.</p>
+      <h2>Welcome to Serene Yoga Studio</h2>
+      <p>Embark on a journey to wellness and tranquility. Join us in discovering the path to a balanced and harmonious life through the practice of yoga.</p>
       </Navbar>
   );
 }
