@@ -1,7 +1,15 @@
 /* components/Contact.css */
 
-.contact-content {
+/* .contact-content {
     width: 70%;
     margin: auto; /* Center the content horizontally */
+  } */
+
+/* components/Contact.css */
+
+.contact-content {
+    width: 50vw;
+    margin: 50px; 
   }
+  
   
