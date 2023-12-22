@@ -1,4 +1,13 @@
 /* Navbar styles */
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  margin: 50px;
+  width: 50%;
+}
+
 .Navbar {
     background-color: #3498db;
     color: #fff;
@@ -6,15 +15,20 @@
     text-align: center;
   }
   
+  
   /* Heading styles */
   h2 {
     color: #2c3e50;
+    margin: 50px;
   }
   
   /* Paragraph styles */
   p {
     color: #34495e;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 1.5;
+    margin: 50px;
+    width:50vw;
   }
+  
   
